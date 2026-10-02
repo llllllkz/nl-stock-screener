@@ -1,0 +1,8 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+.vite/
+智选_自然语言选股与策略解释器_提交包.zip
