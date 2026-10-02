@@ -1,5 +1,8 @@
 # 智选 · 自然语言选股与策略解释器
 
+> 源代码仓库：https://github.com/llllllkz/nl-stock-screener
+> 本地运行：`cd app && npm install && npm run dev`（http://localhost:7100）
+
 把投资者的模糊语言（如「经营改善、估值合理、走势相对稳定」）翻译成**可检查、可修改、可执行**的数据条件，
 基于 **iFinD 真实数据**完成确定性筛选，并对每只股票给出**入选依据、排除原因、条件变化的敏感性影响**。
 
