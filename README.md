@@ -1,5 +1,6 @@
 # 智选 · 自然语言选股与策略解释器
 
+> **在线体验（GitHub Pages）**：https://llllllkz.github.io/nl-stock-screener/
 > 源代码仓库：https://github.com/llllllkz/nl-stock-screener
 > 本地运行：`cd app && npm install && npm run dev`（http://localhost:7100）
 
